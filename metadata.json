@@ -1,0 +1,7 @@
+{
+  "name": "CashFlow SaaS - SME Expense Manager",
+  "description": "A multi-tenant SaaS platform for SMEs to manage cash, expenses, and employee petty cash (custody) with multi-role access control.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
